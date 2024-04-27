@@ -2,9 +2,6 @@
 
 At the PMI Lab, we collaborate closely with clinicians to translate specialized medical knowledge into accessible software and mobile technologies. Our tools, powered by quantitative imaging and advanced machine learning, help pediatric specialists worldwide to enhance diagnostics and predict clinical outcomes in infancy and childhood diseases. By facilitating early diagnosis, our technologies enable timely care delivery and prevent potential health complications.
 
-![Python 3.6+](https://img.shields.io/badge/python-3.6+-green.svg)
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-blue.svg)](LICENSE.md)
-
 ## Lab Focus Areas
 
 - **Precision Medical Imaging**: Enhancing the clarity and clinical utility of medical images.
